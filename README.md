@@ -1,5 +1,18 @@
 # 2024학년도 CMD 알고리즘 튜터링
 
+## 💁‍♂️멘토
+<table>
+  <tr height="140px">
+    <td width="130px">
+      <a href="https://github.com/seongm1n"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/166149819?v=4"></a>
+      <br>
+      <a href="https://github.com/seongm1n">seongmin</a>
+    </td>
+  </tr>
+</table>
+
+## 🙋‍♂️멤버
+
 ## 🥅목표
 1. 자료구조 알고리즘 등 기초 CS지식을 공부한다.
 2. 백준, 프로그래머스에서 문제를 풀어본다.
