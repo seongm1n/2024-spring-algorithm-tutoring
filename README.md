@@ -12,6 +12,46 @@
 </table>
 
 ## 🙋‍♂️멤버
+<table>
+  <tr height="140px">
+    <td width="130px">
+      <a href="https://github.com/jangjuntae"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/91938434?v=4"></a>
+      <br>
+      <a href="https://github.com/jangjuntae">juntae</a>
+    </td>
+    <td>
+      <a href="https://github.com/sukryu"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/94154497?v=4"></a>
+      <br>
+      <a href="https://github.com/sukryu">jinhyuk</a>
+    </td>
+    <td>
+      <a href="https://github.com/hyeondo01"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/156043136?v=4"></a>
+      <br>
+      <a href="https://github.com/hyeondo01">dohyeon</a>
+    </td>
+    <td>
+      <a href="https://github.com/svvchu"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/112860927?v=4"></a>
+      <br>
+      <a href="https://github.com/svvchu">seungwan</a>
+    </td>
+    <td>
+      <a href="https://github.com/SiRyung"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/91623756?v=4"></a>
+      <br>
+      <a href="https://github.com/SiRyung">joonhyuk</a>
+    </td>
+    <td>
+      <a href="https://github.com/mopy12"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/166390212?v=4"></a>
+      <br>
+      <a href="https://github.com/mopy12">dahyun</a>
+    </td>
+    <td>
+      <a href="https://github.com/hamtory05"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/163499219?v=4"></a>
+      <br>
+      <a href="https://github.com/hamtory05">jaehyeon</a>
+    </td>
+  </tr>
+</table>
+
 
 ## 🥅목표
 1. 자료구조 알고리즘 등 기초 CS지식을 공부한다.
