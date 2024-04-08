@@ -29,6 +29,8 @@
       <br>
       <a href="https://github.com/hyeondo01">dohyeon</a>
     </td>
+  </tr>
+  <tr height="140px">
     <td>
       <a href="https://github.com/svvchu"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/112860927?v=4"></a>
       <br>
@@ -44,6 +46,8 @@
       <br>
       <a href="https://github.com/mopy12">dahyun</a>
     </td>
+  </tr>
+  <tr height="140px">
     <td>
       <a href="https://github.com/hamtory05"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/163499219?v=4"></a>
       <br>
