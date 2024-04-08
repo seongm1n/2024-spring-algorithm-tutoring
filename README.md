@@ -44,7 +44,7 @@
     <td>
       <a href="https://github.com/mopy12"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/166390212?v=4"></a>
       <br>
-      <a href="https://github.com/mopy12">dahyun</a>
+      <a href="https://github.com/mopy12">dahyeun</a>
     </td>
   </tr>
   <tr height="140px">
