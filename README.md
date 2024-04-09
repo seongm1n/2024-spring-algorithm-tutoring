@@ -84,6 +84,13 @@
   - 수업 방식 설명
   - 백준, 프로그래머스 사용법
   - 그리디 알고리즘
+
+    [거스름돈](https://www.acmicpc.net/problem/5585)
+
+    [스네이크버드](https://www.acmicpc.net/problem/16435)
+
+    [A -> B](https://www.acmicpc.net/problem/16953)
+
 - 2주차 - 브루트포스, 구현
   - 브루트포스 알고리즘 설명
   - 문제 적용
