@@ -53,6 +53,11 @@
       <br>
       <a href="https://github.com/hamtory05">jaehyeon</a>
     </td>
+    <td>
+      <a href="https://github.com/alsgur05"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/76838480?v=4"></a>
+      <br>
+      <a href="https://github.com/alsgur05">minhyeok</a>
+    </td>
   </tr>
 </table>
 
