@@ -58,6 +58,40 @@
       <br>
       <a href="https://github.com/alsgur05">minhyeok</a>
     </td>
+    <td>
+      <a href="https://github.com/hywn33"><img height="100px" width="100px" src="#"></a>
+      <br>
+      <a href="https://github.com/hywn33">hyoen</a>
+    </td>
+  </tr>
+  <tr height="140px">
+    <td>
+      <a href="https://github.com/hyojin-j"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/166384892?v=4"></a>
+      <br>
+      <a href="https://github.com/hyojin-j">hyojin</a>
+    </td>
+    <td>
+      <a href="https://github.com/Woojin525"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/166416355?v=4"></a>
+      <br>
+      <a href="https://github.com/Woojin525">woojin</a>
+    </td>
+    <td>
+      <a href="https://github.com/parkjm0114"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/163758291?v=4"></a>
+      <br>
+      <a href="https://github.com/parkjm0114">jeongmin</a>
+    </td>
+  </tr>
+  <tr height="140px">
+    <td>
+      <a href="https://github.com/chaerinu"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/166604981?v=4"></a>
+      <br>
+      <a href="https://github.com/chaerinu">chaerin</a>
+    </td>
+    <td>
+      <a href="https://github.com/tjdus04"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/166391394?v=4"></a>
+      <br>
+      <a href="https://github.com/tjdus04">seoyeon</a>
+    </td>
   </tr>
 </table>
 
