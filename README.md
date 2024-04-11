@@ -92,6 +92,19 @@
       <br>
       <a href="https://github.com/tjdus04">seoyeon</a>
     </td>
+    </td>
+    <td>
+      <a href="https://github.com/JISUWITHALLCAPS"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/128721747?v=4"></a>
+      <br>
+      <a href="https://github.com/JISUWITHALLCAPS">seoyeon</a>
+    </td>
+  </tr>
+  <tr height="140px">
+    <td>
+      <a href="https://github.com/eunzzu"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/145631943?v=4"></a>
+      <br>
+      <a href="https://github.com/eunzzu">chaerin</a>
+    </td>
   </tr>
 </table>
 
