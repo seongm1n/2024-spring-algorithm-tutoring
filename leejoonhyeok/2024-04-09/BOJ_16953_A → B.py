@@ -1,35 +1,20 @@
-#method 1. 2를 곱한다.
-#method 2. 1의 수의 가장 오른쪽에 추가한다.
+#def me2(pl):
+#    return int(str(pl)+str(1))
+# 1을 추가하기 위해 만들었으나 B를 줄여가는게 훨씬 효율적임.
+    
+A, B = map(int,input().split())
+play = 0
 
-from collections import deque
-
-def me2(pl):
-    return int(str(pl)+str(1))
-
-queue = deque()
-visited = []
-A, B = 4,42
-cnt = 0
-queue.append(A)
-
-while(len(queue) != 0):
-    tmp = queue.popleft()
-    if(tmp == B):
+while(A != B):
+    tmp = B
+    play += 1
+    if((B%10) == 1):
+        B //= 10
+    elif((B%2)==0):
+        B //= 2
+        
+    if(B == tmp):
+        play = -2
         break
-    else:
-        visited.append(tmp)
-        queue.append(tmp*2)
-        queue.append(me2(tmp))
-
-calc = len(visited)
-
-while(1):
-    if(calc != 1):
-        calc = calc//2
-        cnt += 1
-    else:
-        break
-print(cnt+1)
-
-# 1. 만들 수 없는 경우를 구현하지 못함.
-# 2. 시간복잡도에서 걸릴거 같음.
+        
+print(play+1)
