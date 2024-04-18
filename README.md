@@ -59,9 +59,9 @@
       <a href="https://github.com/alsgur05">minhyeok</a>
     </td>
     <td>
-      <a href="https://github.com/hywn33"><img height="100px" width="100px" src="#"></a>
+      <a href="https://github.com/hyoeun24"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/163793234?v=4"></a>
       <br>
-      <a href="https://github.com/hywn33">hyoen</a>
+      <a href="https://github.com/hyoeun24">hyoen</a>
     </td>
   </tr>
   <tr height="140px">
