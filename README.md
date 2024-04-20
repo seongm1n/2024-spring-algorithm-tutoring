@@ -25,9 +25,9 @@
       <a href="https://github.com/sukryu">jinhyuk</a>
     </td>
     <td>
-      <a href="https://github.com/hyeondo01"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/156043136?v=4"></a>
+      <a href="https://github.com/isdohyeon"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/156043136?v=4"></a>
       <br>
-      <a href="https://github.com/hyeondo01">dohyeon</a>
+      <a href="https://github.com/isdohyeon">dohyeon</a>
     </td>
   </tr>
   <tr height="140px">
