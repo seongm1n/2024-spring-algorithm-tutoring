@@ -106,9 +106,9 @@
       <a href="https://github.com/eunzzu">eunzu</a>
     </td>
     <td>
-      <a href="https://github.com/eunzzu"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/145631943?v=4"></a>
+      <a href="https://github.com/KYH-code"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/92522544?v=4"></a>
       <br>
-      <a href="https://github.com/eunzzu">eunzu</a>
+      <a href="https://github.com/KYH-code">yunhyeon</a>
     </td>
   </tr>
 </table>
