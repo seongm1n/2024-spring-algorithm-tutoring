@@ -136,17 +136,17 @@
 - 1주차 - 오리엔테이션
   - 수업 방식 설명
   - 백준, 프로그래머스 사용법
-  - 그리디 알고리즘
-  [거스름돈](https://www.acmicpc.net/problem/5585)
-  [스네이크버드](https://www.acmicpc.net/problem/16435)
-  [A -> B](https://www.acmicpc.net/problem/16953)
+  - 그리디 알고리즘<br>
+  [거스름돈](https://www.acmicpc.net/problem/5585)<br>
+  [스네이크버드](https://www.acmicpc.net/problem/16435)<br>
+  [A -> B](https://www.acmicpc.net/problem/16953)<br>
 - 2주차 - 브루트포스, 구현
   - 브루트포스 알고리즘 설명
   - 문제 적용
-  - 과제 정하기
-  [일곱 난쟁이](https://www.acmicpc.net/problem/2309)
-  [행복한 전화 통화](https://www.acmicpc.net/problem/3863)
-  [체스판 다시 칠하기](https://www.acmicpc.net/problem/1018)
+  - 과제 정하기<br>
+  [일곱 난쟁이](https://www.acmicpc.net/problem/2309)<br>
+  [행복한 전화 통화](https://www.acmicpc.net/problem/3863)<br>
+  [체스판 다시 칠하기](https://www.acmicpc.net/problem/1018)<br>
 - 3주차 - 자료구조
   - 스택, 큐, 힙 설명
   - 문제 적용
