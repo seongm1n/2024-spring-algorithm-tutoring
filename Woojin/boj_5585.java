@@ -4,7 +4,7 @@ public class boj_5585 {
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
-        int n = sc.nextInt();
+        	int n = sc.nextInt();
 		int money = 1000 - n;
 		int result = 0;
 		int[] changes = {500, 100, 50, 10, 5, 1};
