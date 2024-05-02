@@ -1,0 +1,42 @@
+#거스름돈
+thing = int(input('물건의 가격을 입력하세요. : '))
+change = 1000 - thing
+
+change_500 = change // 500
+change_100 = (change % 500) // 100
+change_50 = (change % 100) // 50
+change_10 = (change % 50) // 10
+change_5 = (change % 10) // 5
+change_1 = change % 5
+
+print('잔돈의 개수 :', change_500 + change_100 + change_50 + change_10 + change_5 + change_1)
+
+#스네이크버드
+N = int(input('과일의 개수를 입력하세요. : ')) #과일의 개수를 왜 입력해야 하는지 모르겠음
+L = int(input('스네이크버드의 초기 길이를 입력하세요. : '))
+height = list(map(int, input('과일들의 높이를 입력하세요. : ').split()))
+height.sort()
+
+
+for i in height:
+  if L >= i:
+    L += 1
+
+print(L)
+
+#A -> B
+A, B = map(int, input('정수 A, B를 입력하세요. : ').split())
+
+while A != B:
+  if A < B:
+   if (B - A) % 2 == 0:
+     count = (B - A) // 2
+   else:
+     count = (B - A) // 2 + 1
+  else:
+    break
+
+if A == B:
+  print(count+1)
+else:
+  print(-1)
