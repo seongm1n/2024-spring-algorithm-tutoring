@@ -1,4 +1,3 @@
-package boj_5585;
 import java.util.Scanner;
 
 public class boj_5585 {
