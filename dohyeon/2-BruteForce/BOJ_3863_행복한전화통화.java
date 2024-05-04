@@ -30,7 +30,7 @@ public class BOJ_3863 {
         StringTokenizer st;
         
         while (true) {
-            1. N, M 입력
+            // 1. N, M 입력
             st = new StringTokenizer(br.readLine());
             int N = Integer.parseInt(st.nextToken());
             int M = Integer.parseInt(st.nextToken());
