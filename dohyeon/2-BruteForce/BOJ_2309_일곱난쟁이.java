@@ -1,4 +1,4 @@
-package CMD_Algorithm;
+package CMD_BruteForce;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
