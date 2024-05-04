@@ -8,6 +8,7 @@ import java.util.StringTokenizer;
 public class BOJ_3863 {
     public static int[] solution(int[] callStart, int[] callDur, int[] tapStart, int[] tapDur, int N, int M) {
         int[] answer = new int[M];
+        
         // 도청 시간대가 겹치는지 확인
         for (int i = 0; i < M; i++) {
             int count = 0;
@@ -42,6 +43,7 @@ public class BOJ_3863 {
             int[] dest = new int[N];
             int[] callStart = new int[N];
             int[] callDur = new int[N];
+            
             // 2. Source, Destination, Start, Duration 입력
             for (int i = 0; i < N; i++) {
                 String call = br.readLine();
@@ -53,9 +55,10 @@ public class BOJ_3863 {
                 callDur[i] = Integer.parseInt(callToken.nextToken());
             }
 
-            //3. tapStart, tapDur 입력
             int[] tapStart = new int[M];
             int[] tapDur = new int[M];
+            
+            // 3. tapStart, tapDur 입력
             for (int i = 0; i < M; i++) {
                 String tap = br.readLine();
                 StringTokenizer tapToken = new StringTokenizer(tap, " ");
@@ -63,8 +66,10 @@ public class BOJ_3863 {
                 tapStart[i] = Integer.parseInt(tapToken.nextToken());
                 tapDur[i] = Integer.parseInt(tapToken.nextToken());
             }
+            
             // 결과값 출력
             int[] result = solution(callStart, callDur, tapStart, tapDur, N, M);
+            
             for (int i = 0; i < result.length; i++) {
                 System.out.println(result[i]);
             }
