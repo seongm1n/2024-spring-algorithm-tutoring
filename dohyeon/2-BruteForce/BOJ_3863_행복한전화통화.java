@@ -25,13 +25,15 @@ public class BOJ_3863 {
     public static void main(String[] args) throws IOException {
         // 버퍼를 사용하여 입력받기
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-        int N;
-        int M;
+
+        // 입력값 토큰화 객체 (공백 기준 분리)
         StringTokenizer st;
+        
         while (true) {
+            1. N, M 입력
             st = new StringTokenizer(br.readLine());
-            N = Integer.parseInt(st.nextToken());
-            M = Integer.parseInt(st.nextToken());
+            int N = Integer.parseInt(st.nextToken());
+            int M = Integer.parseInt(st.nextToken());
 
             if (N == 0 && M == 0) {
                 break;
