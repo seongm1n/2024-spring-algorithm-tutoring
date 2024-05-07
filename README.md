@@ -150,7 +150,10 @@
 - 3주차 - 자료구조
   - 스택, 큐, 힙 설명
   - 문제 적용
-  - 과제 정하기
+  - 과제 정하기<br>
+  [카드2](https://www.acmicpc.net/problem/2164)<br>
+  [최대 힙](https://www.acmicpc.net/problem/11279)<br>
+  [북극곰은 괄호를 찢어](https://www.acmicpc.net/problem/25918)<br>
 - 4주차 - 그래프 탐색
   - DFS, BFS 알고리즘 설명
   - 문제 적용
