@@ -1,19 +1,19 @@
 #https://www.acmicpc.net/problem/2309
 
-array = []
+height = []
 for i in range(9):
-    array.append(int(input()))
+    height.append(int(input()))
     
-array.sort()
+height.sort()
 
-_sum = sum(array)
+_sum = sum(height)
 
-for i in range(len(array)):
-    for j in range(i + 1, len(array)):
-        if _sum - array[i] - array[j] == 100:
-            for k in range(len(array)):
+for i in range(len(height)):
+    for j in range(i + 1, len(height)):
+        if _sum - height[i] - height[j] == 100:
+            for k in range(len(height)):
                 if k == i or k ==j:
                     pass
                 else:
-                    print(array[k])
+                    print(height[k])
             exit()
