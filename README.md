@@ -157,7 +157,10 @@
 - 4주차 - 그래프 탐색
   - DFS, BFS 알고리즘 설명
   - 문제 적용
-  - 과제 정하기
+  - 과제 정하기<br>
+  [DFS와 BFS](https://www.acmicpc.net/problem/1260)<br>
+  [토마토](https://www.acmicpc.net/problem/7576)<br>
+  [단지번호붙이기](https://www.acmicpc.net/problem/2667)<br>
 - 5주차 - 정렬, 이진 탐색
   - 이진 탐색 알고리즘 설명
   - 문제 적용
