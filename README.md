@@ -164,7 +164,10 @@
 - 5주차 - 정렬, 이진 탐색
   - 이진 탐색 알고리즘 설명
   - 문제 적용
-  - 과제 정하기
+  - 과제 정하기<br>
+  [숫자 카드 2](https://www.acmicpc.net/problem/10816)<br>
+  [랜선 자르기](https://www.acmicpc.net/problem/1654)<br>
+  [기타 레슨](https://www.acmicpc.net/problem/2343)<br>
 - 6주차 - 다이나믹 프로그래밍
   - 다이나믹 프로그래밍 알고리즘 설명
   - 문제 적용
