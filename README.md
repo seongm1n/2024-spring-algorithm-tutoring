@@ -171,7 +171,10 @@
 - 6주차 - 다이나믹 프로그래밍
   - 다이나믹 프로그래밍 알고리즘 설명
   - 문제 적용
-  - 과제 정하기
+  - 과제 정하기<br>
+  [피보나치 함수](https://www.acmicpc.net/problem/1003)<br>
+  [2xn 타일링 2](https://www.acmicpc.net/problem/11727)<br>
+  [포도주 시식](https://www.acmicpc.net/problem/2156)<br>
 
 이후 진도를 보고 결정
 
