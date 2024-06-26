@@ -39,7 +39,7 @@
     <td>
       <a href="https://github.com/SiRyung"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/91623756?v=4"></a>
       <br>
-      <a href="https://github.com/SiRyung">joonhyuk</a>
+      <a href="https://github.com/beejh02">joonhyuk</a>
     </td>
     <td>
       <a href="https://github.com/mopy12"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/166390212?v=4"></a>
