@@ -176,8 +176,6 @@
   [2xn 타일링 2](https://www.acmicpc.net/problem/11727)<br>
   [포도주 시식](https://www.acmicpc.net/problem/2156)<br>
 
-이후 진도를 보고 결정
-
 ## ✏준비물
 - Github 계정
 - 백준 온라인 저지 계정
